@@ -1,0 +1,2 @@
+Ruta de la carpeta: imagenes/
+foto-principal-silnatha.jpg: Foto de retrato profesional del consultor principal para la sección "Sobre Mí".
